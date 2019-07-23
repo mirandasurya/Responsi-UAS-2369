@@ -1,0 +1,7 @@
+D:\miranda\ResponsiAUS2369\ResponsiUAS2369\ResponsiUAS2369\obj\Debug\ResponsiUAS2369.csprojAssemblyReference.cache
+D:\miranda\ResponsiAUS2369\ResponsiUAS2369\ResponsiUAS2369\obj\Debug\ResponsiUAS2369.csproj.CoreCompileInputs.cache
+D:\miranda\ResponsiAUS2369\ResponsiUAS2369\ResponsiUAS2369\bin\Debug\ResponsiUAS2369.exe.config
+D:\miranda\ResponsiAUS2369\ResponsiUAS2369\ResponsiUAS2369\bin\Debug\ResponsiUAS2369.exe
+D:\miranda\ResponsiAUS2369\ResponsiUAS2369\ResponsiUAS2369\bin\Debug\ResponsiUAS2369.pdb
+D:\miranda\ResponsiAUS2369\ResponsiUAS2369\ResponsiUAS2369\obj\Debug\ResponsiUAS2369.exe
+D:\miranda\ResponsiAUS2369\ResponsiUAS2369\ResponsiUAS2369\obj\Debug\ResponsiUAS2369.pdb
